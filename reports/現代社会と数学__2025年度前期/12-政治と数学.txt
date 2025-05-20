@@ -1,0 +1,32 @@
+政治と数学 確認レポート
+今回の授業で面白いと思った概念や話題を１つ取り上げ，それがなぜ面白いと感じたか500字以内で書いてください．
+150文字以上500文字以下で答えてください
+
+
+Ngの不可能性定理を見て、アローの不可能性定理を思い出した。非常に単純な仮定から、しかし社会的に重要で公平と思える手段を完全な方法で取ることができないと帰結されることは興味深い。
+アローのほうは、順位付けの保存みたいな要件が強いのだろうなと考えていた。そうした、どの要件が強いかといったことを分析するのも面白そうだ。
+一方で、その論理の正しさとは別に、何が要因でそれが帰結されたのか、当たり前に思える要件も弱められないかというアプローチは研究されている。また、その弱化により何が失われたか、というのも考察してみると面白いだろう。
+以前、アローのほうを証明支援系で証明を挑んでみたが、全順序の扱いで完遂に至らなかった。Ngのほうも含めて、また是非挑戦してみたい。
+
+
+
+=====
+memo:
+
+https://en.wikipedia.org/wiki/Proof_of_impossibility
+
+https://koblog.hatenadiary.com/entry/2023/02/28/225747
+
+> 「正の幸福の追加は常に社会的に望ましいと判断されるべきである」というMere Additionを要求すると、必ず「高い幸福の度合いは常に人数の多さによって低い幸福に負けてしまう」というRepugnant Conclusionを導いてしまう。
+> これがNg(1989)の発見した不可能性定理です。
+
+
+元論文っぽいやつ。
+https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/what-should-we-do-about-future-generations/3980E1D269DCD78C8F8A7E94BDE6DC0C
+What Should We Do About Future Generations?
+Impossibility of Parfit's Theory X
+Published online by Cambridge University Press:  05 December 2008
+
+アクセスする手段ないし…。ZEN大学さん…
+
+
