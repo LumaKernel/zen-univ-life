@@ -1,4 +1,12 @@
 
+> [!NOTE]
+> 利用モデル: Gemini 2.5 Pro (preview)
+
+> [!WARNING]
+> ここにある情報の正当性はご自身で確かめてご利用ください。
+
+
+
 <details><summary>プロンプト(クリックで開く)</summary>
 
 ```
