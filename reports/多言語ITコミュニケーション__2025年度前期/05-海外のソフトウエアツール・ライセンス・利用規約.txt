@@ -1,0 +1,24 @@
+5,海外のソフトウエアツール・ライセンス・利用規約 確認レポート
+確認レポート課題を提出してください。課題内容は授業内で指定されます。
+
+
+
+
+海外サービスのToSの気づき、印象。
+
+候補: X, Fivetran, Chromatic (後半は仕事で)。日本だが最近、Zen Studyのそれを見たな。
+
+
+仕事で使うことになったFivetranというサービスの規約について。データを扱う重要なサービスなので参照する機会も多い。
+まず特徴としては、単に通常のTerms of Serviceに相当する部分が以下のようにかなり細分化されている。
+Terms
+  Master Subscription Agreement
+  Service Level Agreement
+  Service Consumption Table
+  Software and Service Specific Requirements
+  Acceptable Use Policy
+  Website Terms of Use
+
+また、こうしたサービスは再販業者が間に入ることがあるが、その場合の支払い等のトラブルはそちらでやってね、と書かれている。
+
+
