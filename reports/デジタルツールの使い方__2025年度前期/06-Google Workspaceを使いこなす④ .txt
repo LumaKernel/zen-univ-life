@@ -1,0 +1,16 @@
+Google Workspaceを使いこなす④ 確認レポート
+Microsoft PowerPointとGoogleスライドの違いを自分の言葉でまとめてください。
+
+
+
+Microsoft PowerPoint:
+- Microsoft社製品。MS365に含まれる。
+- ネイティブアプリとウェブ版がある。
+- MSの他製品との連携はそれなりにできる。
+Googleスライド:
+- Google製品。無料で利用できる。
+- Webでの利用に特化。
+- Googleの他製品との連携はそれなりにできる。
+
+
+

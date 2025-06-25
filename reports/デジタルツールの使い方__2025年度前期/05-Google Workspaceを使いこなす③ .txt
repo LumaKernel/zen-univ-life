@@ -1,0 +1,16 @@
+Google Workspaceを使いこなす③ 確認レポート
+Microsoft ExcelとGoogleスプレッドシートの違いを自分の言葉でまとめてください。
+
+
+Microsoft Excel:
+- Microsoft社製品。MS365に含まれる。
+- ネイティブアプリとウェブ版がある。
+- VBAやPythonを利用して自動化を記述できる。
+- EXCEL専用の関数記述になる
+Googleスプレッドシート:
+- Google製品。Excel同様に表計算ソフトウェア。
+- Webでの利用に特化。
+- スプシ専用の関数記述になる
+- GASで自動化を記述できる。
+
+
