@@ -1,0 +1,78 @@
+設問1 Give an example of a mathematical problem which
+you found a good solution bringing joy to you.
+
+
+Here's my favorite one what I proved when I was middle school student:
+Are all numbers divisor of 99..99 (for some digit length)?
+This problem is coming when observing the problem of notating the fractions in expanded digits form, especially in repetition pattern.
+By quick insight, rational numbers can be denoted in the form of digits repetitions, and they can be written as fraction in form of ..../99..99.
+By this observation, then conversely, for any (positive, mutually prime with 10) number n, we'll get 1/n = ..../99..99, and this means we can multiply both of numerator and denominator by some natural number.
+This quick proof may need extra considerations, but it works. And very interestingly, I got another solution for this in ZEN university's course, by Euler's totient theorem.
+Let's take k := φ(n), then k ≡ 0 mod φ(n), so by the theorem, we can get 10^k ≡ 1 mod n  ⇔  10^k - 1 ≡ 0 mod n, as 10^k - 1 is 99..99 formed number.
+
+
+
+=====
+
+候補:
+- 競プロ系統: (正直覚えてない)
+  - BGSG 離散対数 不変量
+  - RBT 解析
+  - ポテンシャル解析
+  - 主客反転
+  - ポリアの数え上げ
+- 基礎論系:
+  - 対角線論法
+  - カット除去
+  - チューリングの定理
+- 最近すぎるかもだけど、
+  - https://youtu.be/zWvufLP7_Ao 8を非可算無限個
+    - 正直これ好きなので、これでいい？
+    - 集合論系がシンプルに面白いかもしれないね。
+    - → あ、自作限定か。
+  - チョコレート問題 (非構成的証明)
+- 別分野の道具を使う系
+  - 整数論
+- 楽しい証明…？
+- 楽しい問題、が重要か。
+  - ほな、AtCoderかyukicoに無限にあるはずやな。
+  - あ、9999..9999 の約数で自然数を網羅、ってやつでいくか。やったぜ
+
+
+
+
+
+
+
+
+設問2 Why are you interested in the IUT theory of Shinichi Mochizuki?
+
+The statement itself looks simple, but the theory brings huge framework for this. Similarly, we can see the same story in the area of such long-term unsolved difficult problems, such as Galois theory for solvability theorem. It's really exciting what kind of theory would come when proving current unsolved problems like P vs NP, especially, many CS theorems can be proven Cantor's diagonal proof, but it can't work for it. I'm interesting what's the actual jump given by the IUT theory to prove it.
+
+
+
+
+====
+- 概観: 一見シンプルに見える主張と、それを取り巻く壮大な理論という構成がまず見える。長い間未解決だった問題に新しい理論が作られ、それがどのように問題を解くことに効くのか、ということを知るのはとても楽しいことだと思う。代数方程式の可解性に関して、ガロア理論が貢献したように、また、現在の難解な(たとえばP vs NPのような)問題に対してどのような新たな理論が生まれるのだろうかというようなことを考えると、IUTや、まずはその基礎理論に触れてみたいと感じた。
+
+
+
+設問3
+If you will successfully pass these ZEN university
+IUT courses, would you generally be interested to
+continue the study of anabelian geometry and IUT,
+for example as a master student?
+
+
+I think it's limited possibility, so far. I just have the curiosity of random topics, and love communicating with other pure mathematical learners.
+
+
+
+====
+
+- 
+
+
+
+
+
